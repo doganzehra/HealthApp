@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "76440388721",
+    "project_id": "bitirmeapp-3093e",
+    "storage_bucket": "bitirmeapp-3093e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76440388721:android:1b2baf5f28e4aff5dac7d0",
+        "android_client_info": {
+          "package_name": "com.flutterflow.bitirmeprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76440388721-7c4r06g9b2vmd7f9h0kmgdivr1mkvhqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.bitirmeprojesi",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "76440388721-25i2bpdtaclupl9eubci92tgken5biu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2WJ0KI3ww03OtJXO_8wGT9vsvBWTAl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76440388721-25i2bpdtaclupl9eubci92tgken5biu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76440388721-ebfqao39hk82cchapc00th7m8uj1ldd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.bitirmeprojesi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
