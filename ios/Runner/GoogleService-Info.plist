@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>76440388721-ebfqao39hk82cchapc00th7m8uj1ldd3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.76440388721-ebfqao39hk82cchapc00th7m8uj1ldd3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>76440388721-7c4r06g9b2vmd7f9h0kmgdivr1mkvhqp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAURlXrdZvueLAqZeSGkSp7BCZR9MCtrdI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>76440388721</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.bitirmeprojesi</string>
+	<key>PROJECT_ID</key>
+	<string>bitirmeapp-3093e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bitirmeapp-3093e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:76440388721:ios:19705ec77fc9d708dac7d0</string>
+</dict>
+</plist>
